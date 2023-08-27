@@ -5,3 +5,9 @@ This Node.js\terminal-based application generates a maze with a hat, holes, and 
 The initial maze will always be the same; however, if you choose to replay without ending the game, subsequent mazes will be random. 
 
 For simplicity, mazes are limited to a minimum 3x3 or maximum 10x10 matrix, and holes are exposed. The goal of this Codecademy Challenge Project is to work on maze generating algorithms.
+
+To launch this application, run the following code from your terminal:
+
+```
+ node main.js
+```
