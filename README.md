@@ -1,6 +1,6 @@
 # Find Your Hat
 
-This Node.js\terminal-based application generates a maze with a hat, holes, and ensures there is always a path to the hat. The objective is to move through the maze, without falling into any holes, until you find your hat.
+This Node.js\terminal-based application generates a maze with a hat, holes, and ensures there is always a path to the hat. The objective is to move through the maze, without falling into any holes, until you find your hat. If you fall into a hole or off the maze, you lose.
 
 The initial maze will always be the same; however, if you choose to replay without ending the game, subsequent mazes will be random. 
 
